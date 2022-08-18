@@ -3,7 +3,7 @@ Enumerates various elements in Linux for easy review.
 
 To run: 
 
-```$ python3 hw2.py```
+```$ python3 kali_enum.py```
 
 Usage: You'll be greeted by a prompt to make your selection: $ Enter 1 to see processes $ Enter 2 to see process threads $ Enter 3 to see process modules $ Enter 4 to see process executables $ Enter 5 to see process memory (requires hightened privileges $ Enter a number:
 
